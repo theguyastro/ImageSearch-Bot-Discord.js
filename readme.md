@@ -26,7 +26,7 @@ The bot is using slash commands (prefix commands will be added). We also got a v
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/theguyastro/ImageSearch-Bot-Discord.js-.git
+git clone https://github.com/theguyastro/ImageSearch-Bot-Discord.js.git
 cd ImageSearch-Bot-Discord.js
 npm install
 ```
