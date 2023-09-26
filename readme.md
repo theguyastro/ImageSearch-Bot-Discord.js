@@ -1,4 +1,4 @@
-# ImageSearch discord bot (Discord.js)
+# 🤖 ImageSearch discord bot (Discord.js)
 Advanced discord ImageSearch bot.
 
 ## Table of Contents
@@ -30,20 +30,32 @@ npm install
 ```
 
 - Wait for all the dependencies to be installed
-- Rename `.env.example` to `.env` and fill the values.
-- Optionally edit `config.js`
-- Type `npm run start or node index.js` to start the bot
+- Rename `.env.example` to `.env` and fill the values. How to get Unsplash ClientID? [Youtube](https://www.youtube.com/watch?v=gIh00TpSGQA)
+- Optionally edit `config.js`. How to get WebhookID, WebhookTOKEN [Youtube](https://www.youtube.com/watch?v=VVceoFQtgUg)
+- Type  `node index.js` to start the bot via node.js.
 
 
 If you need help or you exeperienced errors feel free to join our Support Server [Here](https://discord.gg/G4YP6gcpjA).
 
+## Managing Bot via PM2 
+[ProjecManager2](https://pm2.keymetrics.io/)
+After ensuring the bot is working you can manage your bot with pm2. 
+
+```
+npm install pm2
+pm2 start index.js
+```
+You can close the terminal and bot will work in the bacground. You can read more about usage of pm2 [here][https://pm2.keymetrics.io/docs/usage/quick-start/]
+
+
+
 ## Commands
 
-/google-search <query> <results> - Searches for an image on google.
-/search <term> - Searches for an image on [Unsplash](https://unsplash.com)
-/random - Search for a random picture on unsplash
-/help - Replies with the help message
-/ping - Replies with the bot latency and uptime (Node process).
+/google-search <query> <results>  Searches for an image on google.
+/search <term>  Searches for an image on [Unsplash](https://unsplash.com)
+/random  Search for a random picture on unsplash
+/help  Replies with the help message
+/ping  Replies with the bot latency and uptime (Node process).
 
 ### 🤝 ***Contributing*** 🤝
 

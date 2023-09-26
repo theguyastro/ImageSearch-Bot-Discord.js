@@ -1,6 +1,5 @@
 {
-  "WebhookLogging": {
-    "enabled": true,
+    "enabled": false,                 
     "WebhookID": "WebhookID",
     "WebhookTOKEN": "WebhookToken"
   },
