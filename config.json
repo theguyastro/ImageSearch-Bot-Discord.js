@@ -1,4 +1,5 @@
 {
+  "WebhookLogging": { 
     "enabled": false,                 
     "WebhookID": "WebhookID",
     "WebhookTOKEN": "WebhookToken"

@@ -1,5 +1,7 @@
 # 🤖 ImageSearch discord bot (Discord.js)
-Advanced discord ImageSearch bot.
+Advanced Discord ImageSearch bot. 
+- Discord Server [Discord](https://discord.gg/G4YP6gcpjA)
+- Mail: theguyastro.development@gmail.com
 
 ## Table of Contents
 
@@ -37,32 +39,33 @@ npm install
 
 If you need help or you exeperienced errors feel free to join our Support Server [Here](https://discord.gg/G4YP6gcpjA).
 
-## Managing Bot via PM2 
-[ProjecManager2](https://pm2.keymetrics.io/)
+## 🖥️ Managing Bot via PM2 
+[Pm2](https://pm2.keymetrics.io/)
 After ensuring the bot is working you can manage your bot with pm2. 
 
 ```
 npm install pm2
 pm2 start index.js
 ```
-You can close the terminal and bot will work in the bacground. You can read more about usage of pm2 [here][https://pm2.keymetrics.io/docs/usage/quick-start/]
+You can close the terminal and bot will work in the bacground. You can read more about usage of pm2 [here](https://pm2.keymetrics.io/docs/usage/quick-start/)
 
 
 
-## Commands
+# Bot Commands
 
-/google-search <query> <results>  Searches for an image on google.
-/search <term>  Searches for an image on [Unsplash](https://unsplash.com)
-/random  Search for a random picture on unsplash
-/help  Replies with the help message
-/ping  Replies with the bot latency and uptime (Node process).
+- `/google-search <query> <results>`: Searches for an image on Google.
+- `/search <term>`: Searches for an image on [Unsplash](https://unsplash.com).
+- `/random`: Searches for a random picture on Unsplash.
+- `/help`: Replies with the help message.
+- `/ping`: Replies with the bot latency and uptime (Node process).
+
 
 ### 🤝 ***Contributing*** 🤝
 
 
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
 
-### Issues
+### ⚒️ Issues
 
 1. Before opening a new issue, please check the existing issues to see if your problem or feature request has already been discussed.
 
@@ -70,7 +73,7 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 3. If you're submitting a feature request, describe the feature and its use cases clearly and concisely.
 
-### Pull Requests
+### 📩 Pull Requests
 
 1. Fork the repository and create a new branch for your contribution.
 
@@ -82,19 +85,19 @@ We welcome contributions from the community! If you'd like to contribute to this
 
 5. Submit a pull request, explaining the changes you made and any relevant information.
 
-### Coding Style
+### 💻 Coding Style
 
 Follow the coding style and guidelines established in the project. If there are specific coding conventions or standards, adhere to them.
 
-### Testing
+### 🧪 Testing
 
 If you're adding new features or making changes, please include tests to verify their functionality. Ensure that existing tests pass without issues.
 
-### Documentation
+### 💻 Documentation
 
 Update the README.md file, to reflect any changes or new features. Clear and well-documented code is appreciated.
 
-### Contributor role
+### 📩 Contributor role
 
 By contributing to this project you will reiceve a contributor role in our Discord Server [Here](https://discord.gg/G4YP6gcpjA) and you will be added as an contributor. 
 
