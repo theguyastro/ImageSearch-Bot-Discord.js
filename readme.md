@@ -1,5 +1,5 @@
 # ImageSearch discord bot (Discord.js)
-Advanced discord image search bot.
+Advanced discord ImageSearch bot.
 
 ## Table of Contents
 
@@ -33,6 +33,7 @@ npm install
 - Rename `.env.example` to `.env` and fill the values.
 - Optionally edit `config.js`
 - Type `npm run start or node index.js` to start the bot
+
 
 If you need help or you exeperienced errors feel free to join our Support Server [Here](https://discord.gg/G4YP6gcpjA).
 
