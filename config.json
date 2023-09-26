@@ -1,0 +1,12 @@
+{
+  "WebhookLogging": {
+    "enabled": true,
+    "WebhookID": "WebhookID",
+    "WebhookTOKEN": "WebhookToken"
+  },
+  "Presence": {
+    "enabled": true,
+    "Activity": "WATCHING",
+    "Status": "github-theguyastro"
+  }
+}
